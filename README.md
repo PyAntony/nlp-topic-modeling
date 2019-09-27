@@ -76,5 +76,6 @@ Options:
 - [] Validate options before computing.
 - [] Add output examples to documentation.
 - [] Use cross validation to get LDA scores (perhaps).
+- [] Decouple the production of the plots (matplotlib objects) and saving to directories (no side effects).
 - [] Add module for Logistic Regression prediction. 
 
